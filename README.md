@@ -8,7 +8,7 @@ Upload any textbook PDF, ask questions, and get smart AI-generated answers using
 - AI-powered question answering with GPT-3.5/4  
 - Summarize entire books with one click  
 
-🔗 **Try it live:** [AI Textbook Assistant](https://ai-lecture-vzkfr8sjkrnynyac9hpjae.streamlit.app/)
+
 
 Built with **Streamlit**, **Sentence Transformers**, **PyMuPDF**, and **OpenAI API**.
 
